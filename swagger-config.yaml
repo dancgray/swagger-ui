@@ -1,5 +1,5 @@
 ---
-url: "https://raw.githubusercontent.com/dancgray/adapt-api-docs/master/swagger.yaml"
+url: "https://api-docs.adaptbuilder.com/swagger.yaml"
 dom_id: "#swagger-ui"
 validatorUrl: "https://online.swagger.io/validator"
 oauth2RedirectUrl: "http://localhost:3200/oauth2-redirect.html"
